@@ -59,7 +59,7 @@ VAR eDmg = 10
 
 == battleIntro ==
     // "{\ |Strong|Powerful|Legendary|Otherworldly|Void|Light|Eternal|Godly|Infinetismal|Imaginary|Dream|Awakening|Renewed|Enlightened|All-seeing|Multiversal|Final} " +
-    ~ eName = "{&Slime|Skeleton|Zombie|Goblin|Vampire|Troll|Gorgon|Lesser Demon|Orc|Large Slime|Phantom|Demon|Dragon||}"
+    ~ eName = "{&Slime|Skeleton|Zombie|Goblin|Vampire|Troll|Gorgon|Lesser Demon|Orc|Large Slime|Phantom|Demon|Dragon}"
     ~ eHp = ((pLvl - 1) * 100) + pExp / pLvl + 30
     ~ eDmg = pLvl * 10
     An enemy {eName} appears!
